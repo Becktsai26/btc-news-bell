@@ -1,0 +1,5 @@
+google-genai
+requests
+feedparser
+python-dateutil
+python-dotenv
